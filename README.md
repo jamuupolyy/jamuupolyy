@@ -6,7 +6,10 @@ Here are some things i've done at uni and also other random stuff that happens t
 
 If you've found your way here by searching the subject code on github... nice, and also don't plagiarise 
 
-
+## things about me:
+- Data Science graduate
+- working as a Commercial Analyst in the energy industry
+- excel is a good program aye
 
 <!--
 **jamuupolyy/jamuupolyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
