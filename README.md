@@ -1,4 +1,8 @@
-### Hi there 👋
+### YO
+
+Here are some things i've done at uni and also other random stuff
+
+
 
 <!--
 **jamuupolyy/jamuupolyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
