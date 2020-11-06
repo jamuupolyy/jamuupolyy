@@ -9,4 +9,6 @@ If you've found your way here by searching the subject code on github...nice...a
 ## things about me:
 - major in Data Science and some extra study in computing
 - Commercial Analyst in the energy industry
+- WORLD RECORD CURLSSSS 
+- TRASH BENCHER
 
