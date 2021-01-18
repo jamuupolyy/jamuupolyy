@@ -8,6 +8,6 @@ If you've found your way here by searching the subject code on github... nice...
 
 ## things about me:
 - major in Data Science, minor in Computer Science (well i did the subjects for a minor in it, gotta count for something...)
-- Commercial Analyst in the energy industry
+- Energy Modelling Analyst
 - GOT THE WORLD RECORD IN BARBELL CURLSSS LETSGOOOOOO 
 
