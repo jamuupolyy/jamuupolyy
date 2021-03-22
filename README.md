@@ -8,6 +8,6 @@ If you've found your way here by searching the subject code on github... nice...
 
 ## things about me:
 - did Data Science and Computer Science at uni
-- Energy Modelling Analyst
+
 - GOT THE WORLD RECORD IN BARBELL CURLSSS LETSGOOOOOO 
 
